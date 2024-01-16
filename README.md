@@ -1,1 +1,1 @@
-# CodeEveryDay
+# Code. Every Day.
